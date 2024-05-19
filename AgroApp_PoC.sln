@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroApp_PoC", "PocEmConsole\AgroApp_PoC.csproj", "{E87F792F-603F-441A-81D7-CF5D613EF99F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroApp_PoC", "AgroApp_PoC\AgroApp_PoC.csproj", "{E87F792F-603F-441A-81D7-CF5D613EF99F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
